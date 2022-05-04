@@ -1242,4 +1242,14 @@ img {
         color: #141414; }
   .academy-tabs-content .tab-content h6 {
     font-size: 18px; }
-/*# sourceMappingURL=style.css.map */
+
+.Mision{
+    text-align: center;
+
+}
+.mision_text{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
